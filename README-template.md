@@ -26,7 +26,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: https://www.frontendmentor.io/solutions/responsive-blog-preview-card-U1NKPfOsIs
 
 ## My process
